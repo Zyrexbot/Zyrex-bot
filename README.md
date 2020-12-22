@@ -1,4 +1,4 @@
-## REUZSC
+## Zyrex-bot
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -12,17 +12,17 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 ```bash
 > download termux
 > buka
-> pkg install git
-> pkg install ffmpeg
+> pkg instal git
+> pkg instal ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/benisadewa/reuzsc
-> cd reuzsc
+> git clone https: // github.com/Zyrexbot/Zyrex-bot 
+> cd Zyrex-bot
 > bash install.sh
 > node index.js
 ```
-
-
+</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
+</s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </ s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s>   </s> orang </ s
 # FITUR
 
 | KEADAAN       |               FITUR     |
